@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubApi</string>
+    <string name="tittle">題名</string>
+    <string name="enter_description">説明を入力</string>
+    <string name="save">保存</string>
+    <string name="login">ログインする</string>
+    <string name="account_haved">アカウントをお持ちですか</string>
+    <string name="password">パスワード</string>
+    <string name="email">Eメール</string>
+    <string name="register_now">今すぐ登録</string>
+    <string name="register">登録</string>
+    <string name="joined_us_before">以前に参加しましたか？</string>
+    <string name="enter_username">ユーザーネームを入力してください</string>
+    <string name="enter_name">名前を入力</string>
+    <string name="enter_email">メールアドレスを入力して</string>
+    <string name="enter_password">パスワードを入力する</string>
+    <string name="confirm_password">パスワードを認証する</string>
+    <string name="home">家</string>
+    <string name="favorite">お気に入り</string>
+    <string name="profile">プロフィール</string>
+    <string name="repository">リポジトリ</string>
+    <string name="following" translatable="false">続く</string>
+    <string name="followers">フォロワー</string>
+    <string name="view_github">github を見る</string>
+    <string name="username">ユーザー名</string>
+    <string name="search">探す</string>
+    <string name="edit_profile">プロファイル編集</string>
+    <string name="note_edit_profile">ログインするためのユーザー名とパスワードは変更されません。ユーザー名 a とパスワード b を使用して、このアカウントでログインできます。</string>
+    <string name="japan_language">日本語</string>
+</resources>
